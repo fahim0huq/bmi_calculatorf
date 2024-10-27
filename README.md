@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+![screenshot](assets/images/1.jpg)
+![screenshot](assets/images/2.jpg)
+![screenshot](assets/images/3.jpg)
+![screenshot](assets/images/4.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
